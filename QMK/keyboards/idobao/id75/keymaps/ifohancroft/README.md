@@ -1,6 +1,6 @@
-# IFo Hancroft's Idobo Layout
+# IFo Hancroft's Idobo Keymap
 
-![IFo Hancroft's Idobo Layout Image](keymap.png "IFo Hancroft's Idobo Layout")
+![IFo Hancroft's Idobo Keymap Image](keymap.png "IFo Hancroft's Idobo Keymap")
 
 - Layer 0: Default Layer
 - Layer 1: Function Layer

@@ -1,6 +1,6 @@
-# IFo Hancroft's HotDox76v2 Layout
+# IFo Hancroft's HotDox76v2 Keymap
 
-![IFo Hancroft's HotDox76v2 Layout Image](keymap.png "IFo Hancroft's HotDox76v2 Layout")
+![IFo Hancroft's HotDox76v2 Keymap Image](keymap.png "IFo Hancroft's HotDox76v2 Keymap")
 
 - Layer 0: Default Layer
 - Layer 1: Function Layer

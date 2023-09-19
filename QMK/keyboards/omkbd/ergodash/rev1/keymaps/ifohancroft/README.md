@@ -1,6 +1,6 @@
-# IFo Hancroft's ErgoDash Layout
+# IFo Hancroft's ErgoDash Keymap
 
-![IFo Hancroft's ErgoDash Layout Image](keymap.png "IFo Hancroft's ErgoDash Layout")
+![IFo Hancroft's ErgoDash Keymap Image](keymap.png "IFo Hancroft's ErgoDash Keymap")
 
 - Layer 0: Default Layer
 - Layer 1: Function Layer

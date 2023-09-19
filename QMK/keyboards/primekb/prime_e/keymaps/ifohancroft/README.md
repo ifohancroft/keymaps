@@ -1,6 +1,6 @@
-# IFo Hancroft's Prime_E Layout
+# IFo Hancroft's Prime_E Keymap
 
-![IFo Hancroft's Prime_E Layout Image](keymap.png "IFo Hancroft's Prime_E Layout")
+![IFo Hancroft's Prime_E Keymap Image](keymap.png "IFo Hancroft's Prime_E Keymap")
 
 - Layer 0: Default Layer
 - Layer 1: Function Layer

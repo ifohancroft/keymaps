@@ -1,6 +1,6 @@
-# IFo Hancroft's ErgoDox EZ Layout
+# IFo Hancroft's ErgoDox EZ Keymap
 
-![IFo Hancroft's ErgoDox EZ Layout Image](keymap.png "IFo Hancroft's ErgoDox EZ Layout")
+![IFo Hancroft's ErgoDox EZ Keymap Image](keymap.png "IFo Hancroft's ErgoDox EZ Keymap")
 
 - Layer 0: Default Layer
 - Layer 1: Function Layer
