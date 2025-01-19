@@ -1,0 +1,14 @@
+{
+    "features": {
+        "command": true,
+        "nkro": true,
+        "oled": true,
+        "rgb_matrix": true,
+        "swap_hands": true,
+        "via": true,
+        "bootmagic": false,
+        "console": false,
+        "extrakey": false,
+        "mousekey": false
+    }
+}
